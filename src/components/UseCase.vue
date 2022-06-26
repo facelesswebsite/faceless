@@ -16,6 +16,15 @@ const count = ref(0)
         </div>
         <div class="content-wrapper">
             <div class="content-item">
+                <div class="image" style="border-radius: 10px">
+                    <img :src="Icon9" alt="">
+                </div>
+                <div class="content">
+                    <div class="content-title">Electronic invoicing</div>
+                    <p>is a natural application of our protocol given the fact that our payment is based on HRIs, the authenticity of which have been verified by our platforms.</p>
+                </div>
+            </div>
+            <div class="content-item">
                 <div class="image">
                     <img :src="Icon1" alt="">
                 </div>
@@ -40,15 +49,6 @@ const count = ref(0)
                 <div class="content">
                     <div class="content-title">Financial management for a hierarchical organization</div>
                     <p>it can be built on top of extensions of IBE, such as hierarchical IBE, which allows a key holder for “company.eth” to decrypt the ciphertext for “department.company.eth”.</p>
-                </div>
-            </div>
-            <div class="content-item">
-                <div class="image" style="border-radius: 10px">
-                    <img :src="Icon9" alt="">
-                </div>
-                <div class="content">
-                    <div class="content-title">Electronic invoicing</div>
-                    <p>is a natural application of our protocol given the fact that our payment is based on HRIs, the authenticity of which have been verified by our platforms.</p>
                 </div>
             </div>
         </div>
