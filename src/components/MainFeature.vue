@@ -12,7 +12,6 @@ const count = ref(0)
 <section class="main-feature">
         <div class="title-wrapper">
             <div class="title">Main Feature</div>
-            <div class="subtitle">Aggregated, Affordable, One-Click User Experiences</div>
         </div>
         <div class="content-wrapper">
             <div class="content-item">
@@ -21,7 +20,7 @@ const count = ref(0)
                     <img class="image" :src="Icon4" alt="">
                 </div>
                 <p class="content">
-                    --
+                    guarantee the user privacy, including the HRI anonymity and amount confidentiality.
                 </p>
             </div>
             <div class="content-item">
@@ -35,7 +34,7 @@ const count = ref(0)
             </div>
             <div class="content-item">
                 <div class="content-header">
-                    <span class="title">Privacy-preserving verification of HRIs:</span>
+                    <span class="title">Privacy-preserving verification of HRIs</span>
                     <img class="image" :src="Icon4" alt="">
                 </div>
                 <p class="content">

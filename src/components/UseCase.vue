@@ -12,7 +12,6 @@ const count = ref(0)
 <section class="use-case">
         <div class="title-wrapper">
             <div class="title">Use Cases</div>
-            <div class="subtitle">Revolutionize Many and Create More Applications</div>
         </div>
         <div class="content-wrapper">
             <div class="content-item">
@@ -21,7 +20,7 @@ const count = ref(0)
                 </div>
                 <div class="content">
                     <div class="content-title">Regulation-compliant private payment</div>
-                    <p>built on our system since our system is closely tied to the users’ HRIs,such as mobile numbers and social media accounts.</p>
+                    <p>can be built on our system since our system is closely tied to the users’ HRIs,such as mobile numbers and social media accounts.</p>
                 </div>
             </div>
             <div class="content-item">
