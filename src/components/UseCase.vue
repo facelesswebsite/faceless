@@ -25,12 +25,12 @@ const count = ref(0)
                 </div>
             </div>
             <div class="content-item">
+                 <div class="image">
+                    <img :src="Icon2" alt="">
+                </div>
                 <div class="content">
                     <div class="content-title">Trust-based DeFi systems</div>
                     <p>such as credit systems, lending, etc can be built on privacy-preserving analysis of various information across different payment and social media platforms, etc.</p>
-                </div>
-                <div class="image">
-                    <img :src="Icon2" alt="">
                 </div>
             </div>
             <div class="content-item">

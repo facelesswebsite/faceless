@@ -26,7 +26,7 @@ const count = ref(0)
             <div class="content-item">
                 <div class="content-header">
                     <span class="title">One key to rule them all</span>
-                    <img class="image" :src="Icon4" alt="">
+                    <img class="image" :src="Icon5" alt="">
                 </div>
                 <p class="content">
                     one secret key for managing multiple HRIs since each user could have many HRIs.
@@ -35,7 +35,7 @@ const count = ref(0)
             <div class="content-item">
                 <div class="content-header">
                     <span class="title">Privacy-preserving verification of HRIs</span>
-                    <img class="image" :src="Icon4" alt="">
+                    <img class="image" :src="Icon6" alt="">
                 </div>
                 <p class="content">
                     prove you are who you claim you are.
