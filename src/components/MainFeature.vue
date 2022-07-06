@@ -47,7 +47,6 @@ const count = ref(0)
 
 <style scoped>
     .main-feature{
-        height: 100vh;
         color: #fff;
         display: flex;
         flex-direction: column;

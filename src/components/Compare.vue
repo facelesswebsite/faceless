@@ -98,7 +98,7 @@ const count = ref(0)
 
 <style scoped>
     .compare{
-        height: 100vh;
+        margin-top: 120px;
         color: #fff;
         display: flex;
         flex-direction: column;

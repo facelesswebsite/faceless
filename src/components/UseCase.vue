@@ -57,7 +57,6 @@ const count = ref(0)
 
 <style scoped>
     .use-case{
-        height: 100vh;
         color: #fff;
         display: flex;
         flex-direction: column;
